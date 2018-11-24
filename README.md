@@ -1,2 +1,2 @@
-# bigcash-bot
-tuyul bigcash app
+# SCAM-bot
+tuyul BBSCAM app
