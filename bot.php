@@ -19,7 +19,7 @@ echo "JUMLAH  : ";
 $jum   = trim(fgets(STDIN));
 echo "\n";
 for($a=0;$a<$jum;$a++){
-sleep (5);
+sleep (0);
 $oce   = asw($a, $delay, $reff);
 echo "".$oce."\n\n";
 }
